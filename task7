@@ -1,0 +1,1 @@
+cut -f4 /etc/crontab | grep -v '^#' 
