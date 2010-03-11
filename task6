@@ -1,1 +1,1 @@
-cut -d: -f1 /etc/passwd
+cut -d: -f4 /etc/inittab

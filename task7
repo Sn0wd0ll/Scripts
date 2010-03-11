@@ -1,1 +1,1 @@
-cut -f4 /etc/crontab | grep -v '^#' 
+cut -d: -f4 /etc/inittab | grep -v '^#' 
