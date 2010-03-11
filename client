@@ -1,0 +1,2 @@
+echo Hello!
+nc localhost 8888

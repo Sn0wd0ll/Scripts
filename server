@@ -1,0 +1,2 @@
+echo Hello! It is server.
+nc -l -p 8888
